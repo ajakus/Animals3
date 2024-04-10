@@ -1,0 +1,14 @@
+A:\Advanced Web Services\animals3\bin\Debug\net8.0\animals3.exe
+A:\Advanced Web Services\animals3\bin\Debug\net8.0\animals3.deps.json
+A:\Advanced Web Services\animals3\bin\Debug\net8.0\animals3.runtimeconfig.json
+A:\Advanced Web Services\animals3\bin\Debug\net8.0\animals3.dll
+A:\Advanced Web Services\animals3\bin\Debug\net8.0\animals3.pdb
+A:\Advanced Web Services\animals3\obj\Debug\net8.0\animals3.GeneratedMSBuildEditorConfig.editorconfig
+A:\Advanced Web Services\animals3\obj\Debug\net8.0\animals3.AssemblyInfoInputs.cache
+A:\Advanced Web Services\animals3\obj\Debug\net8.0\animals3.AssemblyInfo.cs
+A:\Advanced Web Services\animals3\obj\Debug\net8.0\animals3.csproj.CoreCompileInputs.cache
+A:\Advanced Web Services\animals3\obj\Debug\net8.0\animals3.dll
+A:\Advanced Web Services\animals3\obj\Debug\net8.0\refint\animals3.dll
+A:\Advanced Web Services\animals3\obj\Debug\net8.0\animals3.pdb
+A:\Advanced Web Services\animals3\obj\Debug\net8.0\animals3.genruntimeconfig.cache
+A:\Advanced Web Services\animals3\obj\Debug\net8.0\ref\animals3.dll
